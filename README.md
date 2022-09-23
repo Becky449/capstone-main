@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Conference Offical Web Page
+# Afritech global summit page
 
 > Capstone Project for Module 1 (Microverse)
 
@@ -10,6 +10,7 @@
 - HTML/CSS/JS 
 - NodeJS 
 - Linters 
+
 ## Project Presentation (LOOM)
 Afri-tech Global summit - 23 September 2022 - Watch Video
 
@@ -67,7 +68,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Thanks for all whose support was involved
+-Thanks to Cindy Shin for the design of this project
+(https://www.behance.net/adagio07)
 
 ## 📝 License
 
