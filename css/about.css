@@ -324,9 +324,8 @@ footer > .footer-text {
 }
 
 @media screen and (min-width: 768px) {
-
   body {
-     overflow-x: hidden;
+    overflow-x: hidden;
   }
 
   .c-bar {
