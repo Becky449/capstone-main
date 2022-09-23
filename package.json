@@ -1,0 +1,33 @@
+{
+  "name": "capstone1",
+  "version": "1.0.0",
+  "description": "Capstone project Module 1 Microverse",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zied2112/Capstone1.git"
+  },
+  "author": "Zied Ben Amor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zied2112/Capstone1/issues"
+  },
+  "homepage": "https://github.com/zied2112/Capstone1#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.26.0",
+    "hint": "^7.1.2",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  },
+  "dependencies": {
+    "sass": "^1.54.9"
+  }
+}
